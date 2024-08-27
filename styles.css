@@ -315,6 +315,14 @@ cursor: pointer;
         width: 80px;
         margin-left: 0;
     }
+
+    .prjbox{
+        display: grid;
+    }
+
+    .xz{
+        display: none;
+    }
 }
 
 
