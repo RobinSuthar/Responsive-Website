@@ -305,6 +305,12 @@ cursor: pointer;
         gap: 100px;
     }
 
+    .prjbox{
+        width: 400px;
+        margin : 0px 0px 0px 140px;
+    }
+
+
     .divtxt{
         width: 80px;
         margin-left: 0;
